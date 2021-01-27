@@ -4,7 +4,7 @@
 - [Request a feature](https://github.com/amezmo/ideas/issues/new)
 - [Submit feedback](https://github.com/amezmo/ideas/issues/new)
 
-# Road map
+# Roadmap
 - We've published the [2021 Roadmap](https://trello.com/b/bDO6sAYd/2021-roamap) on Trello.
 
 # What's this?
