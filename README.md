@@ -4,6 +4,9 @@
 - [Request a feature](https://github.com/amezmo/ideas/issues/new)
 - [Submit feedback](https://github.com/amezmo/ideas/issues/new)
 
+# Road map
+- We've published the [2021 Roadmap](https://trello.com/b/bDO6sAYd/2021-roamap) on Trello.
+
 # What's this?
 - This is the central place for you to submit your ideas for Amezmo.
 
