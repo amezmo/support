@@ -1,0 +1,4 @@
+contact_links:
+  - name: Support Request
+    url: https://github.com/amezmo/support/discussions/new?category=support-requests
+    about: Get specifc application help for your PHP app on Amezmo.
